@@ -1,2 +1,2 @@
-# NASSP Observational Cosmology Course 2017
+# NASSP Observational Cosmology Course
 ## Machine Learning Tutorial
