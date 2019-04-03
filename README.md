@@ -1,2 +1,2 @@
 # NASSP Observational Cosmology Course
-## Machine Learning Tutorial
+## Supernova Machine Learning Tutorial
